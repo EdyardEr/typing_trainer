@@ -1,0 +1,2 @@
+class RepeaterLogics:
+    pass
